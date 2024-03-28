@@ -1,10 +1,10 @@
-# Avatar: The Last Airbender - Elements Out of Balance
+# Avatar: The Last Airbender - Elements Restored to Harmony
 
 ![Avatar: The Last Airbender Logo](pics/avatar-logo.png)
 
-In the world of Avatar: The Last Airbender, harmony between the four elements - Water, Earth, Fire, and Air - is crucial for peace and balance. However, recent disturbances have caused these elements to become imbalanced, threatening the stability of the world. The delicate equilibrium that once existed has been disrupted, and it falls upon the Avatar to restore harmony and restore order.
+In the world of Avatar: The Last Airbender, harmony between the four elements - Water, Earth, Fire, and Air - is crucial for peace and balance. After a period of turmoil and imbalance, the Avatar has successfully restored harmony, bringing stability back to the world.
 
-## The Imbalance:
+## The Restoration:
 
 ![Water](pics/katara/katara-waterbender.webp)
 ### Water - Tranquil Serenity
