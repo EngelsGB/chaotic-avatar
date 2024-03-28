@@ -18,8 +18,9 @@ The shattered foundations of the earth have been mended, restoring strength and 
 ### Fire - Controlled Vigor
 The raging inferno has been tamed, its flames now burning with purpose and control. Instead of destruction, the element of Fire radiates warmth and light, bringing balance without chaos.
 
-![Air](pics/toph/toph-airbender.png)
-### Air - Stillness in Turbulence
-The winds that once carried whispers of peace now blow with confusion and discord. The element of Air, known for its freedom and clarity, now struggles to find its direction amidst the chaos. Toph has become an air bender! Please restore balance by making Aang an air bender!
+![Air](pics/aang/aang-airbender.png)
+### Air - Harmonious Breeze
+The winds blow with a gentle rhythm, carrying the whispers of peace once more. Clarity has returned to the element of Air, guiding its currents with grace and purpose amidst the restored harmony of the world.
+
 
 -------------------
